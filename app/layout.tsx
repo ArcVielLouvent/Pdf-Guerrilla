@@ -12,6 +12,9 @@ export const metadata: Metadata = {
   description: "Konversi, gabung, dan edit PDF langsung di browser Anda. Gratis, cepat, dan aman tanpa upload ke server.",
   verification: {
     google: "X7Z0-8JvGmQOaGBzehMhJjlu20Ayx22WBAE6pt1TgNg",
+    other: {
+      "monetag": "efd1cc8f0312c303b8b728f91e1220e6",
+    },
   },
 };
 
