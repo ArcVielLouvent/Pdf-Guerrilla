@@ -1,3 +1,4 @@
+import Script from "next/script";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
@@ -33,6 +34,7 @@ export default function RootLayout({
         <div className="min-h-screen bg-gray-50">
           {children}
         </div>
+        <script src="https://quge5.com/88/tag.min.js" data-zone="193488" async data-cfasync="false"></script>
         <Footer />
       </body>
     </html>
