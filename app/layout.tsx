@@ -10,6 +10,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "PDFGuerrilla - Tools PDF Gratis Tanpa Batas",
   description: "Konversi, gabung, dan edit PDF langsung di browser Anda. Gratis, cepat, dan aman tanpa upload ke server.",
+  verification: {
+    google: "X7Z0-8JvGmQOaGBzehMhJjlu20Ayx22WBAE6pt1TgNg",
+  },
 };
 
 export default function RootLayout({
